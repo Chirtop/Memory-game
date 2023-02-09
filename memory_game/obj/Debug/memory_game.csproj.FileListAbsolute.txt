@@ -1,0 +1,39 @@
+C:\Users\user\Desktop\memory\memory_game\memory_game\bin\Debug\memory_game.exe.config
+C:\Users\user\Desktop\memory\memory_game\memory_game\bin\Debug\memory_game.exe
+C:\Users\user\Desktop\memory\memory_game\memory_game\bin\Debug\memory_game.pdb
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.GameTable.resources
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.Menu.resources
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.PlayerInfo.resources
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.Properties.Resources.resources
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.GenerateResource.cache
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.exe
+C:\Users\user\Desktop\memory\memory_game\memory_game\obj\Debug\memory_game.pdb
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\bin\Debug\memory_game.exe.config
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\bin\Debug\memory_game.exe
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\bin\Debug\memory_game.pdb
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.AssemblyReference.cache
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.GameTable.resources
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.Menu.resources
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.PlayerInfo.resources
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.Properties.Resources.resources
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.GenerateResource.cache
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.csproj.CoreCompileInputs.cache
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.exe
+C:\Users\asdasd\Desktop\facultate\memory\memory_game\memory_game\obj\Debug\memory_game.pdb
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\bin\Debug\memory_game.exe.config
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\bin\Debug\memory_game.exe
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\bin\Debug\memory_game.pdb
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.csproj.AssemblyReference.cache
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.GameTable.resources
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.Menu.resources
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.PlayerInfo.resources
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.Properties.Resources.resources
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.csproj.GenerateResource.cache
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.csproj.CoreCompileInputs.cache
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.exe
+C:\Users\asdasd\Desktop\facultate\Memory game\memory_game\memory_game\obj\Debug\memory_game.pdb
